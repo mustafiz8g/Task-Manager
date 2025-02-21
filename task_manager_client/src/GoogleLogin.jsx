@@ -21,7 +21,7 @@ const GoogleLogin = () => {
       toast.success(" Successfully logged in!");
       navigate("/", { replace: true });
     } catch (error) {
-      console.error("Google Sign-In Error:", error);
+    //   console.error("Google Sign-In Error:", error);
       toast.error(" Login failed! Please try again.");
     } finally {
       setLoading(false);

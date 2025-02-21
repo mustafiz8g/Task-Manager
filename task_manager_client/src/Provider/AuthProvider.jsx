@@ -27,7 +27,7 @@ const AuthProvider = ({ children }) => {
       const result = await signInWithPopup(auth, googleProvider);
       setUser(result.user);
     } catch (error) {
-      console.error("Google Sign-In Error:", error);
+    //   console.error("Google Sign-In Error:", error);
     } finally {
       setLoading(false);
     }
@@ -40,7 +40,7 @@ const AuthProvider = ({ children }) => {
       await signOut(auth);
       setUser(null);
     } catch (error) {
-      console.error("Logout Error:", error);
+    //   console.error("Logout Error:", error);
     } finally {
       setLoading(false);
     }
