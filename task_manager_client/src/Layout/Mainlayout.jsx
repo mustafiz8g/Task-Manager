@@ -6,8 +6,9 @@ const Mainlayout = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <div className="px-6 sm:px-30 md:px-60">  
+            <div className="px-4 sm:px-20 md:px-40 lg:px-60">  
               <Outlet></Outlet>
+              
             </div>
             
         </div>

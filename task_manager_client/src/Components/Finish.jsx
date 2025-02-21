@@ -41,7 +41,7 @@ const Finish = () => {
 
     const taskss = tasks.filter((task) => task.category === "finished");
     return (
-        <div className="container mx-auto p-6">
+        <div className="container mx-auto p-">
             <h2 className="text-2xl font-bold mb-4">My To-Do List</h2>
             <div className="">
                 {taskss.length === 0 ? (

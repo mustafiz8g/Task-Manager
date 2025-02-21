@@ -38,7 +38,7 @@ const Progress = () => {
     const taskss = tasks.filter((task) => task.category === "in-progress");
 
     return (
-        <div className="container mx-auto p-6">
+        <div className="container mx-auto ">
             <h2 className="text-2xl font-bold mb-4">In Progress Tasks</h2>
             <div className="">
                 {taskss.length === 0 ? (
