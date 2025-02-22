@@ -6,9 +6,9 @@ A simple and efficient **Task Management App** that allows users to **add, edit,
 
 ## 🌐 Live Demo
 
-- **Live Site:** [Your Live Site URL Here]  
-- **Client Repository:** [GitHub Client Repo URL]  
-- **Server Repository:** [GitHub Server Repo URL]  
+- **Live Site:** https://taskmanager-a9a38.web.app/
+- **Client Repository:** https://github.com/mustafiz8g/Task-Manager/tree/main/task_manager_client
+- **Server Repository:** https://github.com/mustafiz8g/Task-Manager/tree/main/task_manager_server
 
 ---
 
