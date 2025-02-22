@@ -33,7 +33,7 @@ A simple and efficient **Task Management App** that allows users to **add, edit,
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/task-manager-client.git
 git clone https://github.com/yourusername/task-manager-server.git
 2️⃣ Install Dependencies
