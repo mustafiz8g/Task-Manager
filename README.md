@@ -80,6 +80,6 @@ npm run start
 | Axios                   | API Requests                   |
 | TanStack Query          | Data Fetching                  |
 | Node.js + Express.js    | Backend API                    |
-| MongoDB + Mongoose      | Database                        |
+| MongoDB +     | Database                        |
 | Dotenv                  | Secure Environment Variables    |
 | Cors & Morgan           | Middleware & Logging           |
